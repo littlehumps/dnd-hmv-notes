@@ -1,6 +1,6 @@
 ### Appearance
 Arra's first form as a verdan with a pair of fancy goggles. Arra's second form is a sea elf.
-![[../../Arra-20240802162705291.webp]]
+![[../attachments/Arra-20240802162705291.webp]]
 ### Lore
 Arra joined the [[Heavy Metal Vagabonds]] in [[Glima]] and joined [[Dolly]]'s faction. Arra originally had a pact with [[Lolth]] the spider demon. 
 
