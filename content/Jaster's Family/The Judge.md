@@ -1,7 +1,6 @@
-Appearance: A white cat with a large grin
 
+![[The Judge-20240802160753499.webp|503]]
 
-#Lore 
 The Judge is part of [[Jaster]]'s family. 
 
 In a cave not far from [[Glima]], The Judge approached [[Silvie]]. It is not yet known what they discussed.

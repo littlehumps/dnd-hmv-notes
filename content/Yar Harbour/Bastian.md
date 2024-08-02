@@ -1,3 +1,5 @@
+![[Bastian-20240802155639693.webp|561]]
+
 Bastian is the governor of [[Yar Harbour]]. 
 
 He holds 3 rules for it's dwellers and visitors:

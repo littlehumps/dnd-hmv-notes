@@ -1,7 +1,9 @@
-**Appearance**
+### Appearance
 Warforged - eyes currently glowing green with [[Innocence]].
 
-**Lore**
+![[Syntak-20240802154756593.webp|465]]
+
+### Lore
 Syntak joined the [[Heavy Metal Vagabonds]] and [[Dolly]]'s faction in [[Glima]]. He has a companion dog who he built called [[Woof]]. 
 
 During the [[Midsummer Festival]] Syntak won a mount; a large beetle whom he named [[Chitter]].

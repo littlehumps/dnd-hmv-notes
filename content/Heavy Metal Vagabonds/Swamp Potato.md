@@ -1,8 +1,18 @@
-**Appearance**
+### Appearance
 Swampy is a faun with curly auburn hair. She wears a cowboy hat and carries a banjo with her. She has freckles and a kind face. 
 
-**Lore**
+![[Swamp Potato-20240802154650716.webp|430]]
+
+### Lore
 Swampy is one of the [[Druids]] from [[Shamuti Island]] who ran away as a small child. She hid her powers until becoming part of the [[Heavy Metal Vagabonds]] and feeling safe to do so. 
+
+She first met [[Aenar]] in a cell in a cave north of [[Glima]] after looking for her parents and falling through a hole. They were soon rescued by the rest of the [[Heavy Metal Vagabonds]] who they met for the first time.
+
+On their journey back to [[Glima]], [[Syntak]] revealed he knew Swampy was a druid but would keep her secret for her. 
+
+When they visited [[Malum Mendax]], Swampy took a disliking to his receptionist [[Coco]] for being judgemental and stuck up. 
+
+During the [[Midsummer Festival]], Swampy bumped into [[Berry Lyn]], a childhood friend from [[Shamuti Island]]. She convinced Swampy that it [[Druids]] are safe here and she should tell her friends her identity. Before telling the rest of the party she decided to show bug-form [[Arra]], due to his love for the druids and wanting to believe they were real. She conjured flowers around him using druidcraft. 
 
 Swampy travelled to Shamuti Island with the party to see if Fudrana could help [Arra] turn back from his beetle form. Fudrana agreed but asked that Swampy took [[The Oath]] and complete her trials in the volcano.
 

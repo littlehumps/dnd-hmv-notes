@@ -1,3 +1,9 @@
+### Appearance
+Wren appears as a young elf girl with a metal arm and a robotic eye. She currently has antlers.
+
+![[Wren-20240802155155541.webp|386]]
+
+### Lore
 Wren is part of the [[Heavy Metal Vagabonds]] and part of [[Dolly]]'s faction in [[Glima]]. When joining the party [[Syntak]] helped fix Wren's arm and [[Arra]] gave them both directions when they were lost. Wren also kissed an elf princess girl before joining the party.
 
 In a cave north of [[Glima]], the party stumbled upon a dinosaur-looking cat called [[Scouse]]. Scouse turned out to be a mimic and made passionate(?) love to Wren. 

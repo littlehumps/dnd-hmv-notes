@@ -1,4 +1,9 @@
-Appearance: Long white hair, wears a plague doctor mask.
+### Appearance
+Long grey/white hair, wears a plague doctor mask.
+
+![[Ellie Smith-20240802154839610.webp|382]]
+
+### Lore
 
 Ellie is part of the [[Heavy Metal Vagabonds]]. The party met her in a cave north of [[Glima]]. She is a doctor who has been working in the under city.
 

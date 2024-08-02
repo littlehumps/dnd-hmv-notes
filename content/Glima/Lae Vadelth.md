@@ -1,3 +1,5 @@
+![[Lae Vadelth-20240802160732515.webp|427]]
+
 At the end of the [[Midsummer Festival]], Lae Vadelth gave the following speech to the crowd:
 
 "Esteemed citizens of our beloved realm. On this auspicious night of the midsummer festival, I stand before you with a heart full of gratitude and joy. As the full moon rises high above us, let us take a moment to reflect on the blessings bestowed upon our land. May the light of the gods bless our fields, and guide our people through the hardships that may come. As we look upon MOON NAME, I must share with you a sombre tale. A tale of love, loss, and the descent into madness. 

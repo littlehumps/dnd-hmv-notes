@@ -1,3 +1,6 @@
+![[Kailan Cobble-20240802155438617.webp|379]]
+
+### Lore
 Kailan is a former member of the [[Heavy Metal Vagabonds]]. The party met him after visiting [[Malum Mendax]]. 
 
 Kailan had been separated from his original party and was determined to reunite with them.

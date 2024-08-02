@@ -1,8 +1,8 @@
-**Appearance**
+### Appearance
 Arra's first form as a verdan with a pair of fancy goggles. Arra's second form is a sea elf.
-Familiar: Arra has a large spider-eating wasp familiar called [[Vum]]
-
-**Lore**
+![[Arra-20240802160346910.webp|468]]
+![[Arra-20240802155045851.webp|466]]
+### Lore
 Arra joined the [[Heavy Metal Vagabonds]] in [[Glima]] and joined [[Dolly]]'s faction. Arra originally had a pact with [[Lolth]] the spider demon. 
 
 On their travels back to [[Glima]] from the cave, Arra's body was taken over by [[Lolth]] as revenge for trying to push them away and he began to attack his friends. Arra was determined to do anything to stop this from happening again. 
