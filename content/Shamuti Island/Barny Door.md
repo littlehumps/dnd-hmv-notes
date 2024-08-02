@@ -1,0 +1,1 @@
+Barny Door is [[Swamp Potato]]'s father and lived on [[Shamuti Island]]. He is believed to be missing or dead as he was replaced by [[Shapeshifters]] in Swampy's life.

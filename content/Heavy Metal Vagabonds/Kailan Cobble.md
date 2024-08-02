@@ -1,5 +1,7 @@
 Kailan is a former member of the [[Heavy Metal Vagabonds]]. The party met him after visiting [[Malum Mendax]]. 
 
+Kailan had been separated from his original party and was determined to reunite with them.
+
 When [[Ellie Smith]] was running out of her medicine, she attacked Kailan. She explained to him that she is a vampire and he allowed her to feed off him until she found more medicine. 
 
 Ellie tried to help Kailan contact his old friends. Unfortunately this was unsuccessful and only a screaming white face similar to those they saw in [[The Mendasium]] appeared. 
