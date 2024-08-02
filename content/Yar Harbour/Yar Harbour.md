@@ -1,3 +1,4 @@
+![[../attachments/Yar Harbour-20240802164948502.webp]]
 Formally known as Port Nemu, Yar Harbour is a town ran by the people and for the people. It is a pirate town with many shops.
 
 The main governor of the town is [[Bastian]], who holds 3 rules for it's dwellers and visitors:

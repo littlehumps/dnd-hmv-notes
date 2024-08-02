@@ -1,3 +1,5 @@
+![[../attachments/Shamuti Island-20240802164652178.webp]]
+
 Shamuti Island is home to the [[Druids]]. It is currently watched over by [[Fudrana]]. 
 
 It is a remote island, protected by [[The Guardian]] and all those who have tried to venture there have failed.  
