@@ -1,8 +1,7 @@
 ### Appearance
 Swampy is a faun with curly auburn hair. She wears a cowboy hat and carries a banjo with her. She has freckles and a kind face. 
 
-![[Swamp Potato-20240802154650716.webp|430]]
-
+![[../../Swamp Potato-20240802162401242.webp]]
 ### Lore
 Swampy is one of the [[Druids]] from [[Shamuti Island]] who ran away as a small child. She hid her powers until becoming part of the [[Heavy Metal Vagabonds]] and feeling safe to do so. 
 
