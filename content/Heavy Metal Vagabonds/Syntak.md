@@ -1,4 +1,5 @@
 ### Appearance
+
 Warforged - eyes currently glowing green with [[Innocence]].
 
 ![[Syntak-20240802154756593.webp|465]]
@@ -6,12 +7,18 @@ Warforged - eyes currently glowing green with [[Innocence]].
 ### Lore
 Syntak joined the [[Heavy Metal Vagabonds]] and [[Dolly]]'s faction in [[Glima]]. He has a companion dog who he built called [[Woof]]. 
 
-During the [[Midsummer Festival]] Syntak won a mount; a large beetle whom he named [[Chitter]].
+On the way to the cave north of [[../Glima/Glima|Glima]] they found a pack of injured direwolves and entered into a fight with a large group of orcs. During the fight an ancient army of tree saplings helped fight the orcs. Syntak found a small puppy called [[../Companions and Mounts/Lupe]]. Syntak tried to give Lupe back to his mother but because she was so injured, [[../Other NPCs/Wiseash|Wiseash]] advised them to look after him. 
 
-On the road to [[Yar Harbour]], [[Lupe]] heard the sound of his mother calling to him. Syntak helped Lupe reconnect with his family and his companion said goodbye.
+In the cave Syntak almost lost control and set fire to a den of baby troglodytes. 
 
-Follow this the party were attacked by a group of bandits. During the fight Syntak's eyes glowed red and he entered a frenzy. After this he could not remember what happened. 
+During the [[Midsummer Festival]] Syntak won a mount; a large beetle whom he named [[../Companions and Mounts/Chitter]].
 
-Whilst on the ship to [[Shamuti Island]], Syntak had a dream where he felt like he couldn't breathe (which is unusual as he can't breathe anyway). In it he could hear voices in the distance.
+On the road to [[Yar Harbour]], [[../Companions and Mounts/Lupe]] heard the sound of his mother calling to him. Syntak helped Lupe reconnect with his family and his companion said goodbye. Around this time Syntak also crafted [[../Companions and Mounts/Buzz]], a small mechanical dragonfly. 
 
-Syntak was gifted [[Innocence]] by [[Hevlaska]] whilst Swampy was taking [[The Oath]]. After completing her puzzle, he is also now a [[Champion of Tara]].
+Following this the party were attacked by a group of bandits. During the fight Syntak's eyes glowed red and he entered a frenzy. After this he could not remember what happened. 
+
+Whilst on the ship to [[Shamuti Island]], Syntak had a dream where he felt like he couldn't breathe (which is unusual as he can't breathe anyway). In it he could hear voices in the distance but could not move.
+
+Syntak was gifted [[Innocence]] by [[Hevlaska]] whilst Swampy was taking [[The Oath]]. After completing her puzzle, he will be a [[Champion of Tara]].
+
+On the island Syntak met fellow warforged, [[../Other NPCs/Astra]]. Originally he wanted to stay on the island to learn more about his kind, but [[Aenar]] convinced him to stay with the party and [[../Other NPCs/Astra]] decided to join them on their journey back to [[../Glima/Glima|Glima]]. 

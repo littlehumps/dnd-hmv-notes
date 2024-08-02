@@ -6,4 +6,7 @@ When the [[../Heavy Metal Vagabonds/Heavy Metal Vagabonds|Heavy Metal Vagabonds]
 
 With the help of the tavern's barmaid (and Alocious' wife), [[Robin]], the party convinced Alocious to perform on stage with them to recite a beautiful version of Wonderwall (My Haul). After softening up to the party, Alocious agreed to help transport them to [[../Shamuti Island/Shamuti Island|Shamuti Island]]. 
 
-Alocious decided to stay on the island with [[../Heavy Metal Vagabonds/Kailan Cobble|Kailan Cobble]]. 
+Alocious decided to stay on the island with [[../Heavy Metal Vagabonds/Kailan Cobble|Kailan Cobble]] and search for his missing crew.
+
+Alocious Crew:
+- Vasilica (sister)

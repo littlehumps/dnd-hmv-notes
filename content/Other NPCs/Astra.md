@@ -1,0 +1,1 @@
+Astra is a warforged that the [[content/Heavy Metal Vagabonds/Heavy Metal Vagabonds|Heavy Metal Vagabonds]] met on

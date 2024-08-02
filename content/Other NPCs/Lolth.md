@@ -1,0 +1,3 @@
+[[Lolth]] is a spider god, whom which [[content/Heavy Metal Vagabonds/Arra|Arra]] had a pact with. Arra would fiddle with a cats cradle and scratch to ease the feeling whenever he needed to use her power. 
+
+On their travels back to [[Glima]] from the cave, Arra's body was taken over by [[Lolth]] as revenge for trying to push her away and he began to attack his friends. Arra was determined to do anything to stop this from happening again. 

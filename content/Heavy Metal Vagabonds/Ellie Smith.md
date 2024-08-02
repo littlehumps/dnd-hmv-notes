@@ -7,6 +7,8 @@ Long grey/white hair, wears a plague doctor mask.
 
 Ellie is part of the [[Heavy Metal Vagabonds]]. The party met her in a cave north of [[Glima]]. She is a doctor who has been working in the under city.
 
+During the [[../Glima/Midsummer Festival|Midsummer Festival]], Ellie received a skeleton elk mount called [[Sir Samuel]]. 
+
 When [[Ellie Smith]] ran out of her medicine in [[Yar Harbour]], she attacked [[Kailan Cobble]]. She explained to him that she is a vampire and he allowed her to feed off him until she found more medicine. 
 
 Ellie tried to help Kailan contact his old friends. Unfortunately this was unsuccessful and only a screaming white face similar to those they saw in [[The Mendasium]] appeared. 
