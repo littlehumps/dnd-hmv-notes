@@ -8,7 +8,7 @@ Wren is part of the [[Heavy Metal Vagabonds]] and part of [[Dolly]]'s faction in
 
 In a cave north of [[Glima]], the party stumbled upon a dinosaur-looking cat called [[Scouse]]. Scouse turned out to be a mimic and made passionate(?) love to Wren. 
 
-During the [[Midsummer Festival]], Wren was handed a doll and started to uncover happy memories. She also purchased a bow which felt more natural in her hands than her guns. 
+During the [[Midsummer Festival]], Wren was handed a doll and started to uncover happy memories. She also purchased a bow which felt more natural in her hands than her guns. Wren also gave her arm to [[Tink]] for repairs. 
 
 On the journey north, the party discovered Wren is writing a book about a group of travellers, only slightly dissimilar to their own. 
 
