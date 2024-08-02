@@ -1,6 +1,7 @@
 **Appearance**
 Swampy is a faun with curly auburn hair. She wears a cowboy hat and carries a banjo with her. She has freckles and a kind face. 
 
+**Lore**
 Swampy is one of the [[Druids]] from [[Shamuti Island]] who ran away as a small child. She hid her powers until becoming part of the [[Heavy Metal Vagabonds]] and feeling safe to do so. 
 
 Swampy travelled to Shamuti Island with the party to see if Fudrana could help [Arra] turn back from his beetle form. Fudrana agreed but asked that Swampy took [[The Oath]] and complete her trials in the volcano.
