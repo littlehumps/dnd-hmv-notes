@@ -1,0 +1,1 @@
+Champions of Tara are those who wield [[Innocence]] to protect

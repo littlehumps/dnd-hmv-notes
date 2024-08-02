@@ -1,0 +1,1 @@
+The Green Shaft is a brothel run by [[Scouse]] and is located in the Undercity of [[Glima]]

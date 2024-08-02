@@ -1,0 +1,1 @@
+The druids are believed to be dead by the majority of people in the realm. The truth is that they've been living isolated on [[Shamuti Island]], protected by [[Fudrana]] and [[The Guardian]].

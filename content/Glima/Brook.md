@@ -1,0 +1,1 @@
+Faction leader in [[Glima]] along with [[Dolly]]

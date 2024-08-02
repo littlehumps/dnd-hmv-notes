@@ -1,0 +1,1 @@
+The guardian is an ancient spirit that protects [[Shamuti Island]]. 
