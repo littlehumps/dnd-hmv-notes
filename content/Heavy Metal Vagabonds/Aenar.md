@@ -3,7 +3,7 @@ title: Aenar
 tags: []
 ---
 ### Appearance: 
-Dark hair, strong, carries a sword created from [[Innocence]]. 
+Aenar is a Fallen Aasimar with dark black hair pulled into one long braid. She has purple eyes and a strong frame. She carries a Knight's sword created from [[Innocence]] called "Ascalon".
 
 ![[Aenar-20240802160409227.webp|449]]
 ### Lore
