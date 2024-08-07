@@ -5,7 +5,7 @@ Warforged - eyes currently glowing green with [[Innocence]].
 ![[Syntak-20240802154756593.webp|465]]
 
 ### Lore
-Syntak joined the [[Heavy Metal Vagabonds]] and [[Dolly]]'s faction in [[Glima]]. He has a companion dog who he built called [[Woof]]. 
+Syntak joined the [[Heavy Metal Vagabonds]] and [[Dolly]]'s faction in [[Glima]]. He has a companion dog who he built called [[../Companions and Mounts/Woof]]. 
 
 On the way to the cave north of [[../Glima/Glima|Glima]] they found a pack of injured direwolves and entered into a fight with a large group of orcs. During the fight an ancient army of tree saplings helped fight the orcs. Syntak found a small puppy called [[../Companions and Mounts/Lupe]]. Syntak tried to give Lupe back to his mother but because she was so injured, [[../Other NPCs/Wiseash|Wiseash]] advised them to look after him. 
 
