@@ -22,3 +22,11 @@ Whilst on the ship to [[Shamuti Island]], Syntak had a dream where he felt like 
 Syntak was gifted [[Innocence]] by [[Hevlaska]] whilst Swampy was taking [[The Oath]]. After completing her puzzle, he will be a [[Champion of Tara]].
 
 On the island Syntak met fellow warforged, [[../Other NPCs/Astra]]. Originally he wanted to stay on the island to learn more about his kind, but [[Aenar]] convinced him to stay with the party and [[../Other NPCs/Astra]] decided to join them on their journey back to [[../Glima/Glima|Glima]]. 
+
+Syntak took [[../Other NPCs/Astra|Astra]] to see [[../Glima/Tink]] in the hope that she would be able to fix Astra or provide some answers for her. Tink, with [[Arra]] present, proceeded to look into the metal skulls of [[../Other NPCs/Astra|Astra]] and Syntak and found they were almost identical in their make and design. However Syntak seemed to be missing some sort of cartridge and the connections to this had been severed. Tink attempted to restore this connection which caused Syntak to power down and the following message was heard by [[../Glima/Tink]], [[../Other NPCs/Astra|Astra]] and [[Arra]]: 
+
+*"Warning, warning, critical malfunction detected; host link compromised. Initiating emergency protocol #03, prepare for separation. Error detected- neuron link disconnected, memory core not found. Unit 103, provide status report. 103, return to station for repair and reboot."*
+
+At the same time Syntak was plunged into the same dreamlike state as he was on the way to Shamuti. This time he was able to feel what appeared to be his own humanoid hands bang on the glass, like he was drowning in a container of fluid, before his consciousness returned to his mechanical form once more. 
+
+Syntak appears to be gaining affection for [[../Other NPCs/Astra|Astra]] and finds her very interesting.

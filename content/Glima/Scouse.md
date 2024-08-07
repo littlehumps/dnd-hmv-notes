@@ -1,4 +1,4 @@
-![[../../Scouse-20240802225928864.webp]]
+![[../attachments/Scouse-20240802225928864.webp]]
 
 Scouse is a mimic who the [[Heavy Metal Vagabonds]] met in a cave during the start of their travels. Scouse has taken the form of a dinosaur-like cat and a beautiful woman. In the latter form Scouse had a sexual encounter with [[Wren]]. 
 
