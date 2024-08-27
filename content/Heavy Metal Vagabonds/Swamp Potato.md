@@ -21,6 +21,8 @@ Within the volcano the party met [[Hevlaska]] who told the party about how the i
 
 The innocence then showed Swampy the truth about her parents, [[Barny Door]] and [[Celery Sue]]. When she was young, a group of [[Shapeshifters]] infiltrated the island, removed Swampy's parents and replaced them for the remainder of her life. She does not know what happened to her parents or where the shapeshifters now are.
 
+In the forest of Pelorus, Swampy caught a raccoon trying to steal the party's rations for it's 'babies'. The raccoon lured the party to a nest of baby rocs, which subsequently caused the mother to attack the party. After defeating the adult roc, Swampy climbed back up the tree to check on the babies. The raccoon turned out to be [[../Jaster's Family/The Judge|The Judge]], tricking the party, but Swampy did not recognise them. She left the stolen rations with three of the eggs and proceeded to look after the other two eggs herself, which she has named 'Benedict' and 'Sunny', in the hope that they'd come across someone who could care for them. 
+
 --- 
 aliases: 
 - Swampy
