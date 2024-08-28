@@ -1,6 +1,6 @@
 ### Appearance
 
-Warforged - eyes currently glowing green with [[Innocence]].
+Warforged - eyes currently glowing green with [[../Champions of Tara/Innocence]].
 
 ![[Syntak-20240802154756593.webp|465]]
 
@@ -19,7 +19,7 @@ Following this the party were attacked by a group of bandits. During the fight S
 
 Whilst on the ship to [[Shamuti Island]], Syntak had a dream where he felt like he couldn't breathe (which is unusual as he can't breathe anyway). In it he could hear voices in the distance but could not move.
 
-Syntak was gifted [[Innocence]] by [[Hevlaska]] whilst Swampy was taking [[The Oath]]. After completing her puzzle, he will be a [[Champion of Tara]].
+Syntak was gifted [[../Champions of Tara/Innocence]] by [[Hevlaska]] whilst Swampy was taking [[The Oath]]. After completing her puzzle, he will be a [[../Champions of Tara/Champion of Tara]].
 
 On the island Syntak met fellow warforged, [[../Other NPCs/Astra]]. Originally he wanted to stay on the island to learn more about his kind, but [[Aenar]] convinced him to stay with the party and [[../Other NPCs/Astra]] decided to join them on their journey back to [[../Glima/Glima|Glima]]. 
 

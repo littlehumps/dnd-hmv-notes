@@ -18,6 +18,8 @@ Wren has a list of rules which we don't currently know who she was given these b
 
 In [[The Green Shaft]] brothel, whilst under the influence of a drink that [[Scouse]] spiked, [[Wren]] was approached by The Judge and asked to join forces with the family as they may be able to help her. The Judge visited Wren the same evening. 
 
+In the swamp of Perolus, the party met [[../Other NPCs/Key]]. When [[Swamp Potato]] tried to discuss [[../Other NPCs/Fortadayne|Fortadayne]] more with Wren, [[../Other NPCs/Key]] hopped over, and revealed that she not only knows knows him, but that he also lives at her home along with someone called [[JoJo]]. When the party follow [[../Other NPCs/Key]] to look at a statue of [[../Champions of Tara/Ramiel]], Wren instead went deeper into the forest and called out to [[../Jaster's Family/The Judge|The Judge]]. 
+
 **Wren's Rules**
 1. Trust nobody 
 2. Never tell anyone who I am 

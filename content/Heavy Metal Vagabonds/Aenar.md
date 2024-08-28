@@ -3,17 +3,19 @@ title: Aenar
 tags: []
 ---
 ### Appearance: 
-Aenar is a Fallen Aasimar with dark black hair pulled into one long braid. She has purple eyes and a strong frame. She carries a Knight's sword created from [[Innocence]] called "Ascalon".
+Aenar is a Fallen Aasimar with dark black hair pulled into one long braid. She has purple eyes and a strong frame. She carries a Knight's sword created from [[../Champions of Tara/Innocence]] called "Ascalon".
 
 ![[Aenar-20240802160409227.webp|449]]
 ### Lore
-Aenar is a [[Champion of Tara]] and fought in the [[Great Calamity]]. She is currently in a new timeline and part of the [[Heavy Metal Vagabonds]]. 
+Aenar is a [[../Champions of Tara/Champion of Tara]] and fought in the [[Great Calamity]]. She is currently in a new timeline and part of the [[Heavy Metal Vagabonds]]. 
 
 The party met her in a cave north of [[Glima]], captured by Ogres. She was very confused about the year and where she was. During her time in the cave Aenar took a love potion by accident and had a very shot romantic relationship with [[Cherlodyte]], a troglodyte they were fighting. Cherlodyte was killed within minutes by another troglodyte and Aenar, devasted by her grief, left the party. 
 
 Aenar reappeared in [[Yar Harbour]], bumping into [[Wren]]. For a very brief moment she had a northern accent from her travels. She advised that [[Swamp Potato]] was in danger and that they must travel to [[Shamuti Island]] to save her. Wren and Aenar travelled to the island via magic after visiting [[Fumblemore]] in his lighthouse.
 
 Aenar told the party about [[Jaster]] and his family and the dangers that may be ahead of them. For a while [[Aenar]] called people sluts because she didn't know what it meant. 
+
+In the swamp of Perolus the party met [[Key]], a mechanical bird. Key appeared to know Aenar from before the [[../Lore/Great Calamity|Great Calamity]], yet Aenar had no recollection of [[Key]]. Key then guided Aenar to a statue of [[../Champions of Tara/Ramiel]], the 9th [[../Champions of Tara/Champion of Tara|Champion of Tara]], beneath a waterfall. 
 
 --- 
 aliases: 

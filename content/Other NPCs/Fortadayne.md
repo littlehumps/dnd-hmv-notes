@@ -1,4 +1,9 @@
+Wren has a list of rules which we don't currently know who she was given these by. The 10th rule on her list is to find Fortadayne. 
 
+When [[Swamp Potato]] tried to discuss [[../Other NPCs/Fortadayne|Fortadayne]] more with Wren, Key hopped over, and revealed that she not only knows knows him, but that he also lives at her home along with someone called [[JoJo]]. She proceeded to sing the tune of [[The Vault of Fortadayne]] for the party.
+
+
+### The Vault of Fortadayne
 The Vault of Fortadayne:
 Locked in his cellar a tinkerer sits, 
 With his dreams of gold and fame. 
