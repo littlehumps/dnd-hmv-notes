@@ -17,6 +17,8 @@ Aenar told the party about [[Jaster]] and his family and the dangers that may be
 
 In the swamp of Perolus the party met [[Key]], a mechanical bird. Key appeared to know Aenar from before the [[../Lore/Great Calamity|Great Calamity]], yet Aenar had no recollection of [[Key]]. Key then guided Aenar to a statue of [[../Champions of Tara/Ramiel]], the 9th [[../Champions of Tara/Champion of Tara|Champion of Tara]], beneath a waterfall. 
 
+Ellie, and eventually [[../Heavy Metal Vagabonds/Aenar|Aenar]], bring Ramiel back to his body by entering his mind, but it begins to crumble and his last words to Aenar share that what they were doing was wrong... they were wrong. At the same time [[Wren]] spoke to [[../Jaster's Family/The Judge|The Judge]] who showed her visions of her final moments before she died. For Wren a fog also cleared, showing that she was not shot in the eye with an arrow, but pierced by [[Aenar]]'s sword. 
+
 --- 
 aliases: 
 - The Thirteenth

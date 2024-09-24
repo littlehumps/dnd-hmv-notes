@@ -19,6 +19,10 @@ Ellie's real name is Lord Claymore, part of the [[Claymore Family]], which was r
 
 [[../Glima/Lae Vadelth|Lae Vadelth]] advised Ellie that she no longer needs to conduct her work in [[../Glima/Glima|Glima]], her new job is to protect her friends through the dangers they will now face. This convinced Ellie to tell the rest of the party about her vampirism before they headed out to [[../Snowcoat/Snowcoat|Snowcoat]]. 
 
+At a waterfall in the forest of Perolus used her thought detection to connect with whatever life may be linked to the statue of [[../Champions of Tara/Ramiel|Ramiel]]. She saw visions of Ramiel defeating hordes of demons with [[../Jaster's Family/Epsilon|Epsilon]] shouting for him to see what [[Tara]] is making him do. The fog in the vision cleared and Ramiel realised he was killing innocent civilians. As this happened Ellie's legs had turned to stone. 
+
+Ellie and [[../Heavy Metal Vagabonds/Aenar|Aenar]] bring Ramiel back to his body, but it begins to crumble and his last words to Aenar share that what they were doing was wrong... they were wrong.
+
 --- 
 aliases: 
 - Lord Claymore

@@ -21,6 +21,8 @@ Through the resurrection spell Arra was brought back as a much taller and broade
 
 With his new found abilities Arra was able to conjure a new companion called [[../Companions and Mounts/Vum]], a spider-eating wasp. 
 
+Arra revealed to [[Swamp Potato]] that when [[../Shamuti Island/Fudrana|Fudrana]] brought him back to life and the rest of the party carried out The Oath, he learned the way of the [[../Lore/Druids|Druids]] and now has druidic powers. They agree to train and learn their new skills together. 
+
 --- 
 aliases: 
 - Arra Abu Acre Dento

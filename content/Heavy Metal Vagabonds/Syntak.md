@@ -29,4 +29,6 @@ Syntak took [[../Other NPCs/Astra|Astra]] to see [[../Glima/Tink]] in the hope t
 
 At the same time Syntak was plunged into the same dreamlike state as he was on the way to Shamuti. This time he was able to feel what appeared to be his own humanoid hands bang on the glass, like he was drowning in a container of fluid, before his consciousness returned to his mechanical form once more. 
 
+Syntak shared this with the rest of the party, along with [[../Other NPCs/Key|Key]]. Key revealed that Syntak has actually been around a long time and has just been 'asleep'. Looking at the structure of Key and how she was built, they realised that they both had the same master but Syntak almost the original protoype. Key revealed that home is nearby and they should visit - but wasn't sure of the exact location.
+
 Syntak appears to be gaining affection for [[../Other NPCs/Astra|Astra]] and finds her very interesting.
