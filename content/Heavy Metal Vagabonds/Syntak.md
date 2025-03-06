@@ -35,4 +35,4 @@ Syntak shared this with the rest of the party, along with [[../Other NPCs/Key|Ke
 
 Syntak appears to be gaining affection for [[../Other NPCs/Astra|Astra]] and finds her very interesting.
 
-In [[Howl]]'s house, Syntak was able to change the door mechanism and the party were transported to the [[Fire Plains]]. To move around the Fire Plane safely, he pretended to be 'Multi-tool', [[Ellie Smith]]'s mechanical servant. In the crowd of [[Hammer Time]], the local auction house, Syntak was able to disguise his appearance as one of the guards and save [[Liberty]] from being taken to her new slaver, taking her back to [[Howl]]'s house. Syntak seems to know who Liberty is. 
+In [[Howl]]'s house, Syntak was able to change the door mechanism and the party were transported to the [[../Fire Plains/Fire Plain]]. To move around the Fire Plane safely, he pretended to be 'Multi-tool', [[Ellie Smith]]'s mechanical servant. In the crowd of [[Hammer Time]], the local auction house, Syntak was able to disguise his appearance as one of the guards and save [[Liberty]] from being taken to her new slaver, taking her back to [[Howl]]'s house. 

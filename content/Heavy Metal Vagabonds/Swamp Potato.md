@@ -29,7 +29,7 @@ In the forest of Pelorus, Swampy caught a raccoon trying to steal the party's ra
 
 Swampy finds [[Howl]] tied up in a bathroom after the party first meet [[../Other NPCs/Mim]]. After helping the party escape, Howl begins to flirt with Swampy, who doesn't know how to react as she is beginning to develop feelings for [[Arra]]. She helps [[Arra]] with his first wild shape after practising turning into scorpion with him. 
 
-In the [[Fire Plains]], Swampy transforms into a hellhound with a collar reading 'Good Girl' which they found in Howl's house. Her keen sense of smell lead her to the local sausage vendor, as well as a friendly Orc called [[../Fire Plains/Gorc]], who was selling bits and bobs and played fetch with her. Eventually she lead the party to [[Hammer Time]], an auction house, where [[Liberty]] was being sold as a slave. 
+In the [[../Fire Plains/Fire Plain]], Swampy transforms into a hellhound with a collar reading 'Good Girl' which they found in Howl's house. Her keen sense of smell lead her to the local sausage vendor, as well as a friendly Orc called [[../Fire Plains/Gorc]], who was selling bits and bobs and played fetch with her. Eventually she lead the party to [[Hammer Time]], an auction house, where [[Liberty]] was being sold as a slave. 
 
 To evade the chase of ravens, [[Aenar]] casted darkness on a sausage, which she gave to Swampy. Swampy ran around the town with the [[Sausage of Darkness]], causing chaos but also shielding the party from view. She chased after [[Syntak]]'s scent, but he didn't know it was Swampy with the sausage and proceeded to run away with [[Liberty]]. 
 

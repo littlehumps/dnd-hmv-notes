@@ -26,7 +26,7 @@ Wren made a deal with The Judge agreeing that she would take an unknown liquid a
 
 Wren tried to lie to the party about her conversations with [[[../Jaster's Family/The Judge|The Judge]], but was soon caught in her deception, her anger targeted at [[Aenar]]. In [[../Other NPCs/Howl]]'s house, [[Ellie Smith]] learns more about Wren's deal with The Judge, and the impact this could have on the people of [[../Snowcoat/Snowcoat|Snowcoat]]. The two fight and Wren is left feeling sad and alone. 
 
-In the [[../Fire Plains/Fire Plains]], Wren is disguised as a slave. 
+In the [[../Fire Plains/Fire Plain]], Wren is disguised as a slave. 
 
 **Wren's Rules**
 1. Trust nobody 
