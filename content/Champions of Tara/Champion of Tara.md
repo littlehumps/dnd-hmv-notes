@@ -16,4 +16,4 @@ Champions:
 11. Unknown
 12. Unknown
 13. [[../Heavy Metal Vagabonds/Aenar|Aenar]]
-14. [[../Heavy Metal Vagabonds/Swamp Potato|Swamp Potato]] / [[../Fire Plains/Evangelic|Evangelic]] 
+14. [[../Heavy Metal Vagabonds/Swamp Potato|Swamp Potato]] / [[../Fire Plain/Evangelic|Evangelic]] 

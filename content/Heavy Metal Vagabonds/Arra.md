@@ -25,7 +25,7 @@ With his new found abilities Arra was able to conjure a new companion called [[.
 ### Journey to the Fire Plains
 Arra revealed to [[Swamp Potato]] that when [[../Shamuti Island/Fudrana|Fudrana]] brought him back to life and the rest of the party carried out The Oath, he learned the way of the [[../Lore/Druids|Druids]] and now has druidic powers. They agree to train and learn their new skills together. 
 
-After the party meet [[../Other NPCs/Howl]], he begins to flirt with Swampy, which begins to spark jealousy in [[Arra]]. She helps him practice wild shaping into a scorpion, and he eventually turns into a small lizard as his disguise for travelling around the [[../Fire Plains/Fire Plain]]. 
+After the party meet [[../Other NPCs/Howl]], he begins to flirt with Swampy, which begins to spark jealousy in [[Arra]]. She helps him practice wild shaping into a scorpion, and he eventually turns into a small lizard as his disguise for travelling around the [[../Fire Plain/Fire Plain]]. 
 
 --- 
 aliases: 

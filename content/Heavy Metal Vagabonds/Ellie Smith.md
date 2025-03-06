@@ -27,7 +27,7 @@ Ellie and [[../Heavy Metal Vagabonds/Aenar|Aenar]] bring Ramiel back to his body
 
 In [[Howl]]'s house, Ellie learns more about [[Wren]]'s deal with [[The Judge]], and the impact this could have on the people of [[../Snowcoat/Snowcoat|Snowcoat]]. The two fight and Wren is left feeling sad and alone. 
 
-In the [[../Fire Plains/Fire Plain]], Ellie uses one of [[Howl]]'s collars to disguise herself as a slaver, with [[Syntak]] as her slave. 
+In the [[../Fire Plain/Fire Plain]], Ellie uses one of [[Howl]]'s collars to disguise herself as a slaver, with [[Syntak]] as her slave. 
 
 --- 
 aliases: 

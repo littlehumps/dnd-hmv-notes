@@ -6,6 +6,6 @@ When [[Swamp Potato]] asked for help with transforming her friend [[Arra]] out o
 
 [[Fudrana]] squished Arra so that he returned to [[Malum Mendax]] and proceeded to resurrect him as a sea elf. 
 
-After Swampy completed her trials and visited her family home, she informed Fudrana of the [[Shapeshifters]] on the island. Fudrana advised Swampy that her and her friends should leave the island and that she would do what she could to put things right. 
+After Swampy completed her trials and visited her family home, she informed Fudrana of the [[../Lore/Shapeshifters]] on the island. Fudrana advised Swampy that her and her friends should leave the island and that she would do what she could to put things right. 
 
 Through a tree in [[Shamuti Island]], she helped the party travel back to [[Glima]]. 
